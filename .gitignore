@@ -1,0 +1,37 @@
+# Node dependencies
+node_modules/
+dist/
+*.local
+.env
+.env.local
+.env.production
+
+# Build output
+frontend/dist/
+
+# Java / Maven
+backend/target/
+backend/uploads/
+*.class
+*.jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Python
+__pycache__/
+*.pyc
+ai-service/.venv/
+ai-service/venv/
+ai-service/models/*.h5
+ai-service/models/*.pt
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+backend/
+ai-service/.venv/
+frontend/frontend.log
