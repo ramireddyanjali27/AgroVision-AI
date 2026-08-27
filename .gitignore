@@ -33,3 +33,4 @@ ai-service/models/*.pt
 .DS_Store
 Thumbs.db
 backend/
+ai-service/.venv/
