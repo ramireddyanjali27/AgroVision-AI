@@ -34,3 +34,4 @@ ai-service/models/*.pt
 Thumbs.db
 backend/
 ai-service/.venv/
+frontend/frontend.log
